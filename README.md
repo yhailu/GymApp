@@ -1,5 +1,5 @@
 # GymApp
-ios app for personal and commercial use - open source will be fress on app store.
+ios app for personal and commercial use - open source will be free on app store.
 
 
 "Seasons" go as follows categories such as bulking season, summer cutting season, and an inbetween.
